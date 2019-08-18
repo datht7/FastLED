@@ -1,4 +1,4 @@
-#include <FastLED.h>
+#include <FastLED.h>   //datht7
 
 // How many leds in your strip?
 #define NUM_LEDS 1
